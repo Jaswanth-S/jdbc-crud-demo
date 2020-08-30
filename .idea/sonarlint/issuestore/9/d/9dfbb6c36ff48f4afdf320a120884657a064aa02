@@ -1,0 +1,38 @@
+
+k
+java:S1192"NDefine a constant instead of duplicating this literal "got connected" 3 times.(µ òò8¥¼¾ŞÂ.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(”Ôó±øÿÿÿÿ8ª¿êİÂ.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(¾şúà8İŞÂ.
+E
+java:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İŞÂ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ òò8”¨ŒŞÂ.
+v
+java:S1192"YDefine a constant instead of duplicating this literal "com.mysql.cj.jdbc.Driver" 4 times.(ğ¿Éí8İŞÂ.
+f
+java:S1192"IDefine a constant instead of duplicating this literal "Root@123" 4 times.(ù”Ä8ª†·ŞÂ.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”¨ŒŞÂ.
+E
+java:S1148u"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥¼¾ŞÂ.
+k
+java:S1192"NDefine a constant instead of duplicating this literal "Driver loaded" 4 times.(¾şúà8İŞÂ.
+„
+java:S1192"gDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/customerDB" 4 times.(ù”Ä8İŞÂ.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(µ òò8İŞÂ.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(Æê®8İŞÂ.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”¨ŒŞÂ.
+E
+java:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ª¿êİÂ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºø‰Šüÿÿÿÿ8”¨ŒŞÂ.
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(µ òò8¥¼¾ŞÂ.
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(“”Ó»8¥¼¾ŞÂ.
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(¾şúà8¥¼¾ŞÂ.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(´áÀŠÿÿÿÿÿ8ª¿êİÂ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾şúà8”¨ŒŞÂ.
+E
+java:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İŞÂ.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ª¿êİÂ.
+E
+java:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥¼¾ŞÂ.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ëÕ‹8ª¿êİÂ.
